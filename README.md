@@ -8,8 +8,8 @@
 
 ---
 ## I have used ANN to make a 94.73% Accurate MNIST model to identify the Handwritten digit. 
-- I have used the following:
-    * Matplotlib
-    * Tensorflow
-    * keras
-    * Numpy
+I have used the following:
+* Matplotlib
+* Tensorflow
+* keras
+* Numpy
